@@ -1,8 +1,9 @@
-# Progressive Weather Web Application
+#  Weather Web Application
 
-![Weather Data](./src/images/Screenshot.png)
 
-### [Live Site](https://weatherreports.netlify.app)
+<img width="447" alt="image" src="https://user-images.githubusercontent.com/85344716/207920326-270c2581-73b3-4170-add8-d7876290a713.png">
+
+<img width="440" alt="image" src="https://user-images.githubusercontent.com/85344716/207920615-19b911aa-d0f1-434c-83eb-259d00a3deb6.png">
 
 ## Introduction
 

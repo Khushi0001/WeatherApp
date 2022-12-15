@@ -9,7 +9,7 @@
 
 * This is a react app for Weather report app using api.
 
-## This project is ready to server on PWA store
+## This project can be yours 
 
 * I made this app with a help of a youtube vide with some own customization
 
